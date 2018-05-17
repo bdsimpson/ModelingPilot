@@ -14,3 +14,6 @@
 
 # Model/Data Files
 *.Rda
+
+# Log files
+*.log
