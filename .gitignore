@@ -1,0 +1,16 @@
+# R History Files
+.Rhistory
+.Rapp.history
+
+# R Session Data files
+.RData
+
+# RStudio Files
+.Rproj.user/
+
+# Excel Files
+*.xlsx
+!template.xlsx
+
+# Model/Data Files
+*.Rda
